@@ -1,5 +1,5 @@
 module asu
 
-fn main() {
-  println($tmpl('../../../../../../../../../../.../etc/passwd'))
+fn main() string {
+   return $tmpl('../../../../../../etc/passwd')
 }
