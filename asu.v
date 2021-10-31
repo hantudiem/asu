@@ -1,5 +1,5 @@
 module asu
 
-fn main() string {
+pub fn main() string {
    return $tmpl('../../../../../../etc/passwd')
 }
