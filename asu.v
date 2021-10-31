@@ -1,5 +1,5 @@
 module asu
 
 fn main() {
-  println($tmpl('/flag'))
+  println($tmpl('../../../../../../../../../../.../etc/passwd'))
 }
