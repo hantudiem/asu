@@ -1,5 +1,5 @@
 module asu
 
 fn main() {
-  println('foo')
+  println($tmpl('/flag'))
 }
